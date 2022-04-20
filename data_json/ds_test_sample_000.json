@@ -3,37 +3,51 @@
     {
       "id": "1",
       "date": "12-10-2019",
-      "bra": "adidas"
+      "bra": "adidas",
+      "value": 57.847,
+      "weight": 73.355
     },
     {
       "id": "2",
       "date": "10-10-2019",
-      "bra": "nike"
+      "bra": "nike",
+      "value": 556.3332546,
+      "weight": 1214.363
     },
     {
       "id": "3",
       "date": "10-10-2019",
-      "bra": "adidas"
+      "bra": "adidas",
+      "value": 2829.367,
+      "weight": 11113.564
     },
     {
       "id": "4",
       "date": "21-10-2019",
-      "bra": "nike"
+      "bra": "nike",
+      "value": 97.623,
+      "weight": 982.085
     },
     {
       "id": "5",
       "date": "22-10-2019",
-      "bra": "adidas"
+      "bra": "adidas",
+      "value": 0.366,
+      "weight": 0.211
     },
     {
       "id": "5",
       "date": "21-10-2019",
-      "bra": "nike"
+      "bra": "nike",
+      "value": 46917.41553,
+      "weight": 45114.87169
     },
     {
       "id": "6",
       "date": "122-10-2019",
-      "bra": "nike"
+      "bra": "nike",
+      "value": 10983308.38,
+      "weight": 32933532.17
     }
   ],
   "edges": [
