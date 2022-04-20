@@ -3,63 +3,49 @@
     {
       "id": "1",
       "date": "12-10-2019",
-      "cluster": "adidas",
-      "value": 57.847,
-      "weight": 73.355
+      "cluster": "adidas"
     },
     {
       "id": "2",
       "date": "10-10-2019",
-      "cluster": "nike",
-      "value": 556.3332546,
-      "weight": 1214.363
+      "cluster": "nike"
     },
     {
       "id": "3",
       "date": "10-10-2019",
-      "cluster": "adidas",
-      "value": 2829.367,
-      "weight": 11113.564
+      "cluster": "adidas"
     },
     {
       "id": "4",
       "date": "21-10-2019",
-      "cluster": "nike",
-      "value": 97.623,
-      "weight": 982.085
+      "cluster": "nike"
     },
     {
       "id": "5",
       "date": "22-10-2019",
-      "cluster": "adidas",
-      "value": 0.366,
-      "weight": 0.211
+      "cluster": "adidas"
     },
     {
       "id": "5",
       "date": "21-10-2019",
-      "cluster": "nike",
-      "value": 46917.41553,
-      "weight": 45114.87169
+      "cluster": "nike"
     },
     {
       "id": "6",
       "date": "122-10-2019",
-      "cluster": "nike",
-      "value": 10983308.38,
-      "weight": 32933532.17
+      "cluster": "nike"
     }
   ],
   "edges": [
-    { "source": "1", "target": "3" },
+    { "source": "1", "target": "2" },
+    { "source": "1", "target": "2" },
     { "source": "1", "target": "4" },
-    { "source": "2", "target": "1" },
-    { "source": "3", "target": "4" },
-    { "source": "4", "target": "6" },
-    { "source": "6", "target": "2" },
-    { "source": "4", "target": "2" },
-    { "source": "4", "target": "3" },
-    { "source": "6", "target": "5" },
-    { "source": "5", "target": "2" }
+    { "source": "1", "target": "5" },
+    { "source": "1", "target": "6" },
+    { "source": "1", "target": "7" },
+    { "source": "1", "target": "8" },
+    { "source": "1", "target": "9" },
+    { "source": "1", "target": "10" },
+    { "source": "1", "target": "11" }
   ]
 }
