@@ -37,11 +37,11 @@
     }
   ],
   "edges": [
-    { "source": "1", "target": "2" },
-    { "source": "1", "target": "3" },
-    { "source": "1", "target": "4" },
-    { "source": "1", "target": "5" },
-    { "source": "1", "target": "6" },
-    { "source": "1", "target": "6" }
+    { "source": "1", "target": "2", "event": "view"},
+    { "source": "1", "target": "3", "event": "view"},
+    { "source": "1", "target": "4", "event": "cart" },
+    { "source": "1", "target": "5", "event": "view" },
+    { "source": "1", "target": "6", "event": "view" },
+    { "source": "1", "target": "6", "event": "purchase" }
   ]
 }
